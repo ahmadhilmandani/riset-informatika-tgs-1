@@ -1,1 +1,4 @@
-# riset-informatika-tgs-1
+# Riset Informatika Tugas 1
+## Biodata
+Nama : Ahmad Hilman Dani
+NPM : 20081010057
