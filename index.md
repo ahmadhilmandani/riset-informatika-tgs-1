@@ -1,8 +1,8 @@
 # Analisis Sentimen Cyberbullying pada Komentar Instagram dengan Metode Klasifikasi Support Vector Machine
 ## Persoalan Praktis
-- Sebagian masyarakat merasa bahwa MBKM masih memiliki banyak kekurangan dalam pelaksanaannya, sehingga dirasa tidak mampu memberikan dampak positif yang diharapakan, walaupun sebagian lainnya merasakan dampak positif MBKM.  
+- Cyberbullying semakin meresahkan 
 ## Research Questions
-- Penelitian menghasilkan SVM dengan pembobotan kata TF-IDF lebih tinggi tingkat akurasinya. Namun bagaimana bila diterapkan pada Analisis Sentimen pada kasus cyberbulliying dan dibandingkan dengan Word2Vec pada pembobotan katanya secara Word2Vec dapat menangkap hubungan semantik antar kata ?
+- PBagaimana bila diterapkan pada Analisis Sentimen pada kasus cyberbullying dan dibandingkan dengan Word2Vec pada pembobotan katanya secara Word2Vec dapat menangkap hubungan semantik antar kata ?
 ## Tinjauan Pustaka
 - Akbari, M. I. H. A. D., Astri Novianty S.T., M. & Casi Setianingsih S.T., M., 2012. Analisis Sentimen Menggunakan Metode Learning Vector Quantization. Telkom University.
 - Berry, M. & Kogan, J., 2010. Text Mining Application and Theory. In: Wiley: United Kingdom .
