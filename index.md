@@ -29,4 +29,11 @@ Berikut merupakan contoh dari dataset yang didapatkan: 👇
 code untuk Sentiment Analysis dengan Metode Support Vector Machine terhadap Kasus Perundungan di Dunia Maya dapat dilihat pada tautan [berikut ini🔗](https://colab.research.google.com/drive/1oDz4LjBaJ27pKoDQNzcDtT7cNjcTRiGr?usp=sharing)
 
 ## Confusion Matrix untuk Analisis Pengujian
+- Kernel linear menghasilkan 79%
+  Berikut merupakan confusion matrix yang dihasilkan:
+  ![image](https://github.com/ahmadhilmandani/riset-informatika-tgs-1/assets/88090086/8dc834ce-2b17-421f-bfbd-d4696350d65c)
+
+- Kernel RBF menghasilkan 78.9%
+  Berikut merupakan confusion matrix yang dihasilkan:
+  ![image](https://github.com/ahmadhilmandani/riset-informatika-tgs-1/assets/88090086/5120ce08-23a7-483d-8065-6753c3390bf7)
 
